@@ -1,0 +1,83 @@
+[
+    {
+        "pk": 1,
+        "model": "negocios_exchange.Transaction_Type",
+        "fields": {
+            "transaction_type": "Dolares a Bolivares",
+            "transaction_commission": 2,
+            "cashier_commission": 0.1,
+            "coin_1": 1,
+            "coin_2": 2,
+            "financial_entity_1": 2,
+            "financial_entity_2": 1,
+            "exchange_rate": 900,
+            "active": true,
+            "deleted": false
+        }
+    },
+    {
+        "pk": 2,
+        "model": "negocios_exchange.Transaction_Type",
+        "fields": {
+            "transaction_type": "Bolivares a Dolares",
+            "transaction_commission": 2,
+            "cashier_commission": 0.2,
+            "coin_1": 2,
+            "coin_2": 1,
+            "financial_entity_1": 1,
+            "financial_entity_2": 2,
+            "exchange_rate": 900,
+            "active": true,
+            "deleted": false
+        }
+    },
+    {
+        "pk": 3,
+        "model": "negocios_exchange.Transaction_Type",
+        "fields": {
+            "transaction_type": "Dolares to Dolares",
+            "transaction_commission": 2,
+            "cashier_commission": 0.3,
+            "coin_1": 1,
+            "coin_2": 1,
+            "financial_entity_1": 2,
+            "financial_entity_2": 2,
+            "exchange_rate": 1,
+            "active": true,
+            "deleted": false
+        }
+    },
+    {
+        "pk": 4,
+        "model": "negocios_exchange.Transaction_Type",
+        "fields": {
+            "transaction_type": "Dolares to Bolivares",
+            "transaction_commission": 2,
+            "cashier_commission": 0.1,
+            "coin_1": 1,
+            "coin_2": 2,
+            "financial_entity_1": 1,
+            "financial_entity_2": 1,
+            "exchange_rate": 900,
+            "active": true,
+            "deleted": false
+        }
+    },
+    {
+        "pk": 2,
+        "model": "negocios_exchange.Transaction_Type",
+        "fields": {
+            "transaction_type": "Bolivares to Dolares",
+            "transaction_commission": 2,
+            "cashier_commission": 0.2,
+            "coin_1": 2,
+            "coin_2": 1,
+            "financial_entity_1": 1,
+            "financial_entity_2": 1,
+            "exchange_rate": 900,
+            "active": true,
+            "deleted": false
+        }
+    }
+
+]

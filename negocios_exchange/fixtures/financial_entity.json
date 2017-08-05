@@ -1,0 +1,16 @@
+[
+    {
+        "pk": 1,
+        "model": "negocios_exchange.Financial_Entity",
+        "fields": {
+            "financial_entity": "Banco"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "negocios_exchange.Financial_Entity",
+        "fields": {
+            "financial_entity": "Billetera"
+        }
+    }
+]

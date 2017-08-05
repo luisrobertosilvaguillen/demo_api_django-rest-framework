@@ -1,0 +1,52 @@
+[
+    {
+        "pk": 1,
+        "model": "negocios_exchange.Transaction_Status",
+        "fields": {
+            "transaction_status": "Creada"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "negocios_exchange.Transaction_Status",
+        "fields": {
+            "transaction_status": "En Proceso"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "negocios_exchange.Transaction_Status",
+        "fields": {
+            "transaction_status": "Por Verificar Pago del Cliente"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "negocios_exchange.Transaction_Status",
+        "fields": {
+            "transaction_status": "Por Verificar Pago al Cliente"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "negocios_exchange.Transaction_Status", 
+        "fields": {
+            "transaction_status": "Finalizada"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "negocios_exchange.Transaction_Status",
+        "fields": {
+            "transaction_status": "Desestimada"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "negocios_exchange.Transaction_Status",
+        "fields": {
+            "transaction_status": "Transacción en Disputa"
+        }
+    }
+
+]

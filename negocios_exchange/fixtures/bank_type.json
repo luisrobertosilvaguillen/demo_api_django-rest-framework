@@ -1,0 +1,258 @@
+[
+    {
+        "pk": 1,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "ABN AMRO BANK",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 2,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCAMIGA BANCO MICROFINANCIERO, C.A.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 3,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO ACTIVO BANCO COMERCIAL, C.A.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 4,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO AGRICOLA",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 5,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO BICENTENARIO",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 6,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO CARONI, C.A. BANCO UNIVERSAL",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 7,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO CENTRAL DE VENEZUELA.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 8,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO DE DESARROLLO DEL MICROEMPRESARIO",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 9,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO DE VENEZUELA S.A.I.C.A.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 10,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO DEL CARIBE C.A.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 11,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO DEL PUEBLO SOBERANO C.A.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 12,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO DEL TESORO",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 13,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO ESPIRITO SANTO, S.A.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 14,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO EXTERIOR C.A.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 15,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO INTERNACIONAL DE DESARROLLO, C.A.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 16,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO MERCANTIL C.A.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 17,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO NACIONAL DE CREDITO",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 18,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO OCCIDENTAL DE DESCUENTO.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 19,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO PLAZA",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 20,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO PROVINCIAL BBVA",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 21,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCO VENEZOLANO DE CREDITO S.A.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 22,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANCRECER S.A. BANCO DE DESARROLLO",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 23,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANESCO",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 24,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANFANB",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 25,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANGENTE",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 26,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "BANPLUS BANCO COMERCIAL C.A.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 27,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "CITIBANK",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 28,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "DELSUR BANCO UNIVERSAL",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 30,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "FONDO COMUN",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 31,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "INSTITUTO MUNICIPAL DE CRÉDITO POPULAR",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 32,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "MIBANCO BANCO DE DESARROLLO, C.A.",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 33,
+        "model": "negocios_exchange.Bank_Type",
+        "fields": {
+            "bank": "SOFITASA",
+            "commission": 1
+        }
+    }
+]

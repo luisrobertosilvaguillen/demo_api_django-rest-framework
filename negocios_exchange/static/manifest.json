@@ -1,0 +1,7 @@
+{
+  "name": "Negocios Exchange",
+  "short_name": "Negocios_Exchange",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "1077302956284"
+}

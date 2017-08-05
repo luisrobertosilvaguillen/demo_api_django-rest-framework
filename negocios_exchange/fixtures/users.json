@@ -1,0 +1,35 @@
+[
+    {
+        "pk": 1,
+        "model": "auth.user",
+        "fields": {
+            "username": "admin",
+            "first_name": "",
+            "last_name": "",
+            "is_active": true,
+            "is_superuser": true,
+            "is_staff": true,
+            "last_login": "2012-10-28T21:36:57.799Z",
+            "groups": [1],
+            "user_permissions": [],
+            "password": "pbkdf2_sha256$24000$8O3x2KhSn70K$KZqnY8ubOWSkanXl01g4FqvuhNZLDofZFVLhYgGGd8w=",
+            "email": "",
+            "date_joined": "2016-07-28T21:36:57.799Z"
+        }
+    },
+    {
+        "pk": 1,
+        "model": "negocios_exchange.User_Profile",
+        "fields": {
+            "uid": "admin",
+            "user": 1,
+            "dni": "123",
+            "phone_1": "432",
+            "phone_2": "765",
+            "verified": true,
+            "deleted": false,
+            "birthdate": "1990-10-28T21:36:57.799Z",
+            "country": 1
+        }        
+    }
+]

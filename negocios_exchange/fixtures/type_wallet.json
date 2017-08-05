@@ -1,0 +1,72 @@
+[
+    {
+        "pk": 1,
+        "model": "negocios_exchange.Type_Wallet",
+        "fields": {
+            "code": "perfectmoney",
+            "url_icon": "perfectmoney",
+            "type_wallet": "Perfect Money",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 2,
+        "model": "negocios_exchange.Type_Wallet",
+        "fields": {
+            "code": "webmoney",
+            "url_icon": "webmoney",
+            "type_wallet": "WebMoney Transfer",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 3,
+        "model": "negocios_exchange.Type_Wallet",
+        "fields": {
+            "code": "payza",
+            "url_icon": "payza",
+            "type_wallet": "Payza",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 4,
+        "model": "negocios_exchange.Type_Wallet",
+        "fields": {
+            "code": "btc-e",
+            "url_icon": "btc-e",
+            "type_wallet": "BTC-e",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 5,
+        "model": "negocios_exchange.Type_Wallet",
+        "fields": {
+            "code": "skrill",
+            "url_icon": "skrill",
+            "type_wallet": "Skrill",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 6,
+        "model": "negocios_exchange.Type_Wallet",
+        "fields": {
+            "code": "neteller",
+            "url_icon": "neteller",
+            "type_wallet": "Neteller",
+            "commission": 1
+        }
+    },
+    {
+        "pk": 7,
+        "model": "negocios_exchange.Type_Wallet",
+        "fields": {
+            "code": "paypal",
+            "url_icon": "paypal",
+            "type_wallet": "PayPal",
+            "commission": 1
+        }
+    }
+]
