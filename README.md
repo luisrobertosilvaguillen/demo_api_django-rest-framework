@@ -11,5 +11,7 @@ Configurar el archivo negocios_exchange_srv/settings.py con sus credenciales de 
 
 Luego sincronzar la base de datos: python manage.py migrate
 
+Instalar todos los fixtures: python manage.py loaddata {nombre_del_sixture}
+
 Y por ultimo correr el servidor: python manage.py runserver
 
